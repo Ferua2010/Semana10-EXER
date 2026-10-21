@@ -138,3 +138,9 @@ O PHP recomenda usar `password_verify()` em vez de gerar novamente o hash e comp
 
 **Resposta objetiva:**  
 `password_verify()` compara o hash de forma segura contra timing attacks; `===` pode revelar informações pelo tempo de execução.
+
+### Detalhes sobre os exercícios:
+
+- Fiz uso de IA para a criação dos arquivos nas pastas DAO e config, para ter uma base para começar os exercicios
+
+- Os arquivos guard, login, logout, painel admin e relatorios gerencias em sua grande maioria foram baseados nas atividades praticas em sala com o professor
